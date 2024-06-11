@@ -1,2 +1,2 @@
 # DateMate
-A Simple Calendar App
+📱 A Simple Calendar App
